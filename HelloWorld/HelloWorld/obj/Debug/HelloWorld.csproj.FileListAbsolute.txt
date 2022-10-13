@@ -1,0 +1,7 @@
+C:\Users\Kitsa\OneDrive\Desktop\CPA F22\Distributed Apps\wfc\wcf-lab1-hello-world\HelloWorld\HelloWorld\bin\HelloWorld.dll.config
+C:\Users\Kitsa\OneDrive\Desktop\CPA F22\Distributed Apps\wfc\wcf-lab1-hello-world\HelloWorld\HelloWorld\bin\HelloWorld.dll
+C:\Users\Kitsa\OneDrive\Desktop\CPA F22\Distributed Apps\wfc\wcf-lab1-hello-world\HelloWorld\HelloWorld\bin\HelloWorld.pdb
+C:\Users\Kitsa\OneDrive\Desktop\CPA F22\Distributed Apps\wfc\wcf-lab1-hello-world\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+C:\Users\Kitsa\OneDrive\Desktop\CPA F22\Distributed Apps\wfc\wcf-lab1-hello-world\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+C:\Users\Kitsa\OneDrive\Desktop\CPA F22\Distributed Apps\wfc\wcf-lab1-hello-world\HelloWorld\HelloWorld\obj\Debug\HelloWorld.dll
+C:\Users\Kitsa\OneDrive\Desktop\CPA F22\Distributed Apps\wfc\wcf-lab1-hello-world\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
